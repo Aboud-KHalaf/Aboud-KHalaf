@@ -3,7 +3,7 @@
 <h3 align="center">💻 Mobile App Developer | 🚀 Flutter Enthusiast | 🌐 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Solving+Challenges+on+LeetCode+%26+Codeforces;Always+Learning+%26+Building" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Always+Learning+%26+Building" alt="Typing animation" />
 </p>
 
 ---
