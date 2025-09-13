@@ -20,10 +20,10 @@
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://www.linkedin.com/in/aboud-khalaf-50b966240/">
+  <a href="www.linkedin.com/in/aboud-khalaf">
     <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
   </a>
-  <a href="mailto:aboud.khalaf.dev@gmail.com">
+  <a href="mailto:aboud.khalaf.eng@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
   </a>
 
