@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Always+Learning+%26+Building" alt="Typing animation" />
 </p>
 
-<!--Line-->
+<!-- Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # 💫 About Me
@@ -15,21 +15,20 @@
 📱 Mobile application developer specialized in **Flutter**  
 💻 Passionate about solving programming challenges on **LeetCode** and **Codeforces**  
 
-<!--Line-->
+<!-- Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🌐 Socials
 <p align="center">
-  <a href="www.linkedin.com/in/aboud-khalaf">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
+  <a href="https://www.linkedin.com/in/aboud-khalaf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="48" height="48"/>
   </a>
   <a href="mailto:aboud.khalaf.eng@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" width="48" height="48"/>
   </a>
-
 </p>
 
-<!--Line-->
+<!-- Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # 💻 Tech Stack
@@ -44,7 +43,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<!--Line-->
+<!-- Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🏆 Coding Profiles
@@ -52,5 +51,5 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-%230081C3.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_ABOUD)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aboudkalaf10)
 
-<!--Line-->
+<!-- Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
