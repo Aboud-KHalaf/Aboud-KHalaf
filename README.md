@@ -20,9 +20,6 @@
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://www.linkedin.com/in/aboud-khalaf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="48" height="48"/>
-  </a>
   <a href="mailto:aboud.khalaf.eng@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" width="48" height="48"/>
   </a>
