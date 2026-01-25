@@ -27,7 +27,12 @@
   <a href="https://www.linkedin.com/in/aboud-khalaf-526675388">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="48" height="48"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@aboud-khalaf">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="48" height="48"/>
+  </a>
 </p>
+
 
 
 <!-- Line -->
