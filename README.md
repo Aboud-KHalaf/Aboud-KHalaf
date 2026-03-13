@@ -1,62 +1,78 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Aboud Khalaf</h1>
-<h3 align="center">💻 Mobile App Developer | 🚀 Flutter Enthusiast | 🌐 Problem Solver</h3>
+<h1 align="center">Aboud Khalaf</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Always+Learning+%26+Building" alt="Typing animation" />
-</p>
+<h3 align="center">Flutter Developer • Mobile Architecture • Scalable Applications</h3>
 
-<!-- Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-# 💫 About Me
-👤 My name is **Aboud Khalaf**  
-🎓 I graduated from the Faculty of Applied Sciences, Department of Computer Technologies  
-📱 Mobile application developer specialized in **Flutter**  
-💻 Passionate about solving programming challenges on **LeetCode** and **Codeforces**  
-
-<!-- Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🌐 Socials
 <p align="center">
   <a href="mailto:aboud.khalaf.eng@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aboud-khalaf-526675388">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://medium.com/@aboud-khalaf">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
+---
 
+## 👨‍💻 About
 
-<!-- Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+Flutter developer focused on building **scalable, maintainable mobile applications** with clean architecture and strong engineering practices.
 
-# 💻 Tech Stack
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+* 🎯 Specialized in **Flutter & Dart**
+* 📱 Experience building **production mobile applications**
+* ⚙️ Strong interest in **software architecture, performance optimization, and system design**
+* 🧠 Active in **algorithmic problem solving** on LeetCode and Codeforces
 
-<!-- Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-## 🏆 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/_ABOUD/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%230081C3.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_ABOUD)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aboudkalaf10)
+## 🛠 Tech Stack
 
-<!-- Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+**Mobile Development**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+## 📊 Coding Platforms
+
+<p>
+  <a href="https://leetcode.com/u/_ABOUD/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/_ABOUD">
+    <img src="https://img.shields.io/badge/Codeforces-0081C3?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/aboudkalaf10">
+    <img src="https://img.shields.io/badge/HackerRank-239120?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
+
+---
+
+## 💡 Interests
+
+`Mobile Architecture`   `Performance Optimization`   `Clean Code & Maintainability`   `Algorithms & Competitive Programming`
