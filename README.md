@@ -3,16 +3,16 @@
 <h3 align="center">Flutter Developer • Mobile Architecture • Scalable Applications</h3>
 
 <p align="center">
-  <a href="mailto:aboud.khalaf.eng@gmail.com">
+  <a href="mailto:aboud.khalaf.eng@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/aboud-khalaf-526675388">
+  <a href="https://www.linkedin.com/in/aboud-khalaf-526675388" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@aboud-khalaf">
+  <a href="https://medium.com/@aboud-khalaf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://aboud-khalaf.github.io/My-Portfolio/">
+  <a href="https://aboud-khalaf.github.io/My-Portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
