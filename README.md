@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
----
 
 ## 👨‍💻 About
 
