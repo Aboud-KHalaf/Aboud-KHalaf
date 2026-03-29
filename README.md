@@ -12,8 +12,10 @@
   <a href="https://medium.com/@aboud-khalaf">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
   </a>
+  <a href="https://aboud-khalaf.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
-
 ---
 
 ## 👨‍💻 About
